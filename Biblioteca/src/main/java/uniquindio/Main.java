@@ -17,15 +17,13 @@ public class Main {
             Libro libro4 = new Libro("Don quijote", true);
             Libro libro5 = new Libro("Harry Potter", false);
 
-
-
-        biblioteca.agregarLibro(new Libro("48 leyes del poder", true));
+            
             //se agregan los libros a la biblioteca
             biblioteca.agregarLibro(libro1);
             biblioteca.agregarLibro(libro2);
             biblioteca.agregarLibro(libro3);
-        biblioteca.agregarLibro(libro4);
-        biblioteca.agregarLibro(libro5);
+            biblioteca.agregarLibro(libro4);
+            biblioteca.agregarLibro(libro5);
 
 
 

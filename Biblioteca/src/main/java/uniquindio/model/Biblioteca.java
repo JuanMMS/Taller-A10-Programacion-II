@@ -39,10 +39,7 @@ public class Biblioteca implements Iterable<Libro> {
                 while (indice < libros.size()) {
                     Libro libro = libros.get(indice);
                     indice++;
-
-                    if (libro.isDisponible() || !libro.isDisponible()) {
                         return libro;
-                    }
                 }
                 return null;
             }

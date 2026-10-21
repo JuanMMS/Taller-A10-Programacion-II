@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adf2c363-3cf1-40bf-a745-a1f9d509e0a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/uniquindio/model/Biblioteca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uniquindio/model/Libro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/uniquindio/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uniquindio/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uniquindio/model/Biblioteca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uniquindio/model/Biblioteca.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +49,7 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "dev__juanma",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -98,26 +95,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1792594780330</updated>
-      <workItem from="1792594781715" duration="1397000" />
+      <workItem from="1792594781715" duration="1714000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/uniquindio/Main.java</url>
-          <line>10</line>
-          <properties class="uniquindio.Main" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
